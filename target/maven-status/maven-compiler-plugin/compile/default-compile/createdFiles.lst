@@ -1,0 +1,5 @@
+com/jenilpadshala/university/courses/ApplicationConfig.class
+com/jenilpadshala/courseservice/resources/JakartaEE10Resource.class
+com/jenilpadshala/university/courses/CourseService.class
+com/jenilpadshala/courseservice/JakartaRestConfiguration.class
+com/jenilpadshala/university/courses/Course.class
